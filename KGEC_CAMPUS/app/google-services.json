@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "481063796382",
+    "firebase_url": "https://kgeccampus-362a7.firebaseio.com",
+    "project_id": "kgeccampus-362a7",
+    "storage_bucket": "kgeccampus-362a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481063796382:android:aefe6f6ffa8b4da8",
+        "android_client_info": {
+          "package_name": "com.kgec.home.kgec_campus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481063796382-g5vfv17vvm895qdiekk21bitr1t3sflr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kgec.home.kgec_campus",
+            "certificate_hash": "89906a4fce148689b03f8c253b08b06883665b3f"
+          }
+        },
+        {
+          "client_id": "481063796382-jnfk2b1e4j771j0lfs1sp97m18ansk7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_KHONowI5X9Tijxvse7wd9YotvXQPFzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481063796382-jnfk2b1e4j771j0lfs1sp97m18ansk7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test_firebase</string>
+    <string name="buttonrainy">ButtonRainy</string>
+    <string name="buttonsunny">ButtonSunny</string>
+    <string name="condition">Condition</string>
+    <string name="not_registered_yet_register">Not registered yet? Register</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+</resources>

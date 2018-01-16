@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "464844576119",
+    "firebase_url": "https://loginuser-b0118.firebaseio.com",
+    "project_id": "loginuser-b0118",
+    "storage_bucket": "loginuser-b0118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464844576119:android:c99f449de86b0d0b",
+        "android_client_info": {
+          "package_name": "com.example.home.loginuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464844576119-hkf230udoto9j7fnu622bekt4ii1ega2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home.loginuser",
+            "certificate_hash": "89906a4fce148689b03f8c253b08b06883665b3f"
+          }
+        },
+        {
+          "client_id": "464844576119-5u892h32lk2686jc5p02304gu397rmb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnWzgHo-uL7pYqa3nuPTDYVM9dEyfWapg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464844576119-5u892h32lk2686jc5p02304gu397rmb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
